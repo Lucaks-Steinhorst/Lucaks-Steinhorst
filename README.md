@@ -1,7 +1,7 @@
 # Hallo, I'm Lucas Steinhorst 👋
   
 ###
-![GitHub Logo](
+
 
 # Who am I?
  * 👩‍💻 I’m a Data Scientist Jr
@@ -21,4 +21,3 @@
 * [Instagram](https://www.instagram.com/lucassteinhorst/)
 
 
-![Snake animation](
