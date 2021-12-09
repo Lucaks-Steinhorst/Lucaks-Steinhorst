@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hallo, I'm Lucas Steinhorst 👋
+  
+###
 
-<!--
-**Lucaks-Steinhorst/Lucaks-Steinhorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Who am I?
+ * 👩‍💻 I’m a Data Scientist Jr
+ * 🌱 I’m currently learning Power BI, Machine Learning and Python.
+ * 🤔 I’m looking for a job in Data Science
+# Skills 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   * 🐍 Python.
+   * 🗄 SQL.
+   * 💻 JS
+   * 🧮 Power BI.
+   * 📊 Machine Learning.
+
+# Find me around the world 🌎
+
+* [LinkedIn](https://www.linkedin.com/in/lucas-steinhorst/)
+* [Instagram](https://www.instagram.com/lucassteinhorst/)
+
+
