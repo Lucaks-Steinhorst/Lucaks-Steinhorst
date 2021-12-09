@@ -20,4 +20,10 @@
 * [LinkedIn](https://www.linkedin.com/in/lucas-steinhorst/)
 * [Instagram](https://www.instagram.com/lucassteinhorst/)
 
+# Projects
+
+*[Dashboards-PowerBI](https://github.com/Lucaks-Steinhorst/Projetos_Data_Scientist)
+*[Python](https://github.com/Lucaks-Steinhorst/Python_Ciencia_de_Dados) 
+
+
 
