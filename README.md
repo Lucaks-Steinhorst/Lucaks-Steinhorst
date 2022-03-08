@@ -4,7 +4,7 @@
 
 
 # Who am I?
- * 👩‍💻 I’m a Data Scientist Jr
+ * 👩‍💻 I’m a Data Scientist Jr and Data Analysts 
  * 🌱 I’m currently learning Power BI, Machine Learning and Python.
  * 🤔 I’m looking for a job in Data Science
 # Skills 👩‍💻
